@@ -1,0 +1,3 @@
+# Crime Rate Prediction Using Linear Regression
+This dataset reflects arrest incidents in the City of Los Angeles dating back to 2010. This data is transcribed from original arrest reports that are typed on paper and therefore there may be some inaccuracies within the data. Some location fields with missing data are noted as (0.0000°, 0.0000°). Address fields are only provided to the nearest hundred block in order to maintain privacy. This data is as accurate as the data in the database. Please note questions or concerns in the comments. 
+The dataset is available at [data.lacity.org](https://data.lacity.org/A-Safe-City/Arrest-Data-from-2010-to-Present/yru6-6re4). It contains about 1.31 million records.
